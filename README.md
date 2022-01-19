@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?color=auto&type=waving&text=Welcome%20to%20my%20GitHub😊&fontSize=50&height=180&fontAlign=50&fontAlignY=30)
+![header](https://capsule-render.vercel.app/api?color=gradient&type=waving&text=Welcome%20to%20my%20GitHub😊&fontSize=50&height=180&fontAlign=50&fontAlignY=30)
 
 ## About Me
 <pre>
@@ -81,4 +81,4 @@ Back-End에서 <b>팀원들의 의견을 중심</b>으로 디렉터리, Route, A
 **포트폴리오**
 * 준비중
  
-![header](https://capsule-render.vercel.app/api?color=auto&type=waving&height=100&section=footer)
+![header](https://capsule-render.vercel.app/api?color=gradient&type=waving&height=140&section=footer)
