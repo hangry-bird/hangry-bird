@@ -26,7 +26,7 @@ Back-End에서 <b>팀원들의 의견을 중심</b>으로 디렉터리, Route, A
 > <pre>
 > - React 기반의 컴포넌트 구조와 Redux를 이용한 상태관리 도입을 통한 Front-End 설계 
 > - Node.js의 Epxress Framework를 이용해 API 초기 구조 설계 및 개발
-> - Android Native의 WebView를 이용해 모바일 페이지와 Firebase를 이용한 App Push 기능 구현
+> - Android Native의 WebView를 이용해 모바일 페이지와 Firebase를 연동하여 App Push 기능 구현
 > </pre>
 >      
 > **2.** Python을 이용한 데이터 처리 프로그램과 웹 페이지 구현
