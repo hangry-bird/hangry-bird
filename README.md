@@ -76,7 +76,7 @@ Back-End에서 <b>팀원들의 의견을 중심</b>으로 디렉터리, Route, A
 
 ## 주소(URL)
 **깃허브**
-* https://github.com/Angry-TinyBird
+* https://github.com/hangry-bird
 
 **포트폴리오**
 * 준비중
