@@ -26,8 +26,8 @@ UI/UX를 중심으로 <b>사용자들을 위한</b> 솔루션 기능들을 개�
 > **1.** React, Node 기반 전송망 관제 웹 사이트 구현
 > 
 > <pre>
-> - React 기반의 컴포넌트 구조와 Redux를 이용한 상태관리 도입을 통한 Front-End 설계 
-> - Node.js의 Epxress Framework를 이용해 API 초기 구조 설계 및 개발
+> - React 기반의 컴포넌트 구조와 Redux를 이용한 상태관리 도입을 통한 Front-End 설계
+> - Node.js의 Express Framework를 이용해 API 초기 구조 설계 및 개발
 > - Android Native의 WebView를 이용해 모바일 페이지와 Firebase를 연동하여 App Push 기능 구현
 > </pre>
 >      
