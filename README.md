@@ -9,12 +9,12 @@
 <br />
 
 
-[**깃허브**](https://github.com/hangry-bird)
+[**GITHUB**](https://github.com/hangry-bird)
 <!--
 [**소개페이지(미완성...작업중...)**](https://pedantic-goldstine-548870.netlify.app)
-
-[**포트폴리오(미완성...작업중...)**](https://harmonious-puffpuff-4d62a6.netlify.app)
 -->
+[**Portfolio**](https://harmonious-puffpuff-4d62a6.netlify.app)
+
 
 # 
 <br />
