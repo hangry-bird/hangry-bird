@@ -1,6 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?color=gradient&type=waving&text=Welcome%20to%20my%20GitHub😊&fontSize=50&height=180&fontAlign=50&fontAlignY=30)
 
 👨‍🎨 5년차 FrontEnd Developer
+
+스타트업에서 미들급 FrontEnd 개발자로 재직중입니다.
+<br /><br />
 ### 기술이야기,  커피챗 환영합니다.
 starcjs7@gmail.com
 <br /><br />
