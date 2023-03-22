@@ -12,18 +12,4 @@ starcjs7@gmail.com
 <img src="https://img.shields.io/badge/React-red?style=lamula&logo=react&color=000" />
 <img src="https://img.shields.io/badge/Typescript-red?style=lamula&logo=typescript&color=f5f5f5" />
 # 
-<br />
-
-
-
-
-<br />
-
-<br />
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hangry-bird&show_icons=true&theme=buefy)](https://github.com/hangry-bird)
-
-
-
- 
 ![header](https://capsule-render.vercel.app/api?color=gradient&type=waving&height=140&section=footer)
