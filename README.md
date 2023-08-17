@@ -1,15 +1,6 @@
-![header](https://capsule-render.vercel.app/api?color=gradient&type=waving&text=Welcome%20to%20my%20GitHub😊&fontSize=50&height=180&fontAlign=50&fontAlignY=30)
+## Experiences
+- [Reverselab](https://reverselab.co.kr/) | FrontEnd Developer (2022. 08 ~ 2023. 07)
+- [STN-Infotech](http://lab.stninfotech.com/) | Web Developer (2018. 11 ~ 2022. 07)
 
-👨‍🎨 5년차 FrontEnd Developer
-
-스타트업에서 FrontEnd 개발자로 재직중입니다.
-<br /><br />
-### 기술이야기,  커피챗 환영합니다.
-starcjs7@gmail.com
-<br /><br />
-<br />
-<img src="https://img.shields.io/badge/Javascript-ffb13b?style=lamula&logo=javascript&logoColor=white" />
-<img src="https://img.shields.io/badge/React-red?style=lamula&logo=react&color=000" />
-<img src="https://img.shields.io/badge/Typescript-red?style=lamula&logo=typescript&color=f5f5f5" />
-# 
-![header](https://capsule-render.vercel.app/api?color=gradient&type=waving&height=140&section=footer)
+## Extracurricular Activities
+- [DDD 9th](https://github.com/DDD-Community) | FrontEnd Developer (2023. 05 ~ 진행중)
