@@ -5,5 +5,3 @@
 
 ## Extracurricular Activities
 - [DDD 9th](https://github.com/DDD-Community) | FrontEnd Developer (2023. 05 ~ 2023. 10)
-
-https://www.jnpmedi.com/
